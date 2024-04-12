@@ -1,0 +1,128 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+
+article {
+    background-color: rgb(238, 238, 238);
+    border: black 2px solid;
+    border-radius: 10px;
+    margin: 50px;
+}
+
+/* Was soll berechnet werden? */
+.box1 {
+    margin: 10px 10px 10px ;
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    width: 400px;
+    height: 90px;
+    padding: 10px;
+}   
+.box1 p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Mehrwertsteuersatz */
+.box2 {
+    margin: 10px 10px 10px ;
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    width: 400px;
+    height: 90px;
+    padding: 10px;
+
+}   
+.box2 p {
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+/* Betrag in Euro * */
+.box3 {
+    margin: 10px 10px 10px ;
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    width: 400px;
+    height: 90px;
+    padding: 10px;
+
+}   
+.box3 p {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 15px;
+}
+.box3 span {
+    color: red;
+}
+
+/* INPUTFELD */
+#betrag {
+    border-radius: 8px;
+    padding: 3px;
+    border-style: none;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+/* BLAU BUTTON */
+.btn {
+    background-color: blue;
+    color: white;
+    padding: 5px 160px;
+    display: flex;
+    border-radius: 5px;
+    margin-left: 9px;
+    font-size: 18px;
+    margin-bottom: 30px;
+}
+
+/* ERGENIS TEXT BLAU */
+.ergebnis {
+    color: blue;
+    padding: 14px;
+    border-top: solid 2px rgb(80, 80, 80);
+  
+}
+
+/* Mehrwertsteuerbetrag */
+.box4 {
+    margin: 10px 10px 10px ;
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    width: 400px;
+    height: 90px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+}   
+.box4 h2 {
+    padding-bottom: 10px;
+}
+
+/* Endbetrag */
+.box5 {
+    margin: 10px 10px 10px ;
+    background-color: rgb(222, 222, 222);
+    border-radius: 5px;
+    width: 400px;
+    height: 90px;
+    padding: 10px;
+    font-weight: bold;
+    font-size: 12px;
+}   
+.box5 h2 {
+    padding-bottom: 10px;
+}
