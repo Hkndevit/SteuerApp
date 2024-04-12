@@ -5,6 +5,7 @@ Built with
 * Flexbox Layout
 * HTML & CSS
 * JavaScript
+* Responsive
 
 # Links
 <a href="https://steuer-app.vercel.app/">Mehrwertsteuer-App</a>.
