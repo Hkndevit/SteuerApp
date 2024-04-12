@@ -5,13 +5,13 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-section {
+.wrapper {
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: left;
+    width: 100%;
 }
-
 
 article {
     background-color: rgb(238, 238, 238);
@@ -25,8 +25,8 @@ article {
     margin: 10px 10px 10px ;
     background-color: rgb(222, 222, 222);
     border-radius: 5px;
-    width: 400px;
-    height: 90px;
+    /* width: 400px; */
+    height: 10vh;
     padding: 10px;
 }   
 .box1 p {
@@ -39,7 +39,7 @@ article {
     margin: 10px 10px 10px ;
     background-color: rgb(222, 222, 222);
     border-radius: 5px;
-    width: 400px;
+    /* width: 400px; */
     height: 90px;
     padding: 10px;
 
@@ -54,7 +54,7 @@ article {
     margin: 10px 10px 10px ;
     background-color: rgb(222, 222, 222);
     border-radius: 5px;
-    width: 400px;
+    /* width: 400px; */
     height: 90px;
     padding: 10px;
 
@@ -81,10 +81,10 @@ article {
 .btn {
     background-color: blue;
     color: white;
-    padding: 5px 160px;
+    padding: 0.5vh 30vw;
     display: flex;
     border-radius: 5px;
-    margin-left: 9px;
+    margin: 9px;
     font-size: 18px;
     margin-bottom: 30px;
 }
@@ -102,7 +102,7 @@ article {
     margin: 10px 10px 10px ;
     background-color: rgb(222, 222, 222);
     border-radius: 5px;
-    width: 400px;
+    /* width: 400px; */
     height: 90px;
     padding: 10px;
     font-weight: bold;
@@ -117,7 +117,7 @@ article {
     margin: 10px 10px 10px ;
     background-color: rgb(222, 222, 222);
     border-radius: 5px;
-    width: 400px;
+    /* width: 400px; */
     height: 90px;
     padding: 10px;
     font-weight: bold;
