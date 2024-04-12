@@ -12,6 +12,7 @@ Built with
 
 # Screenshot-Image
 
-![image](https://github.com/Hkndevit/SteuerApp/assets/153287802/08af333c-ca2a-491f-a577-692ee9527d1f)
+![image](https://github.com/Hkndevit/SteuerApp/assets/153287802/ac160576-e699-4f69-9c53-06b1e17c4a53)
+
 
 
