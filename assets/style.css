@@ -79,9 +79,12 @@ article {
 
 /* BLAU BUTTON */
 .btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     background-color: blue;
     color: white;
-    padding: 0.5vh 40vw;
+    padding: 0.5vh 30vw;
     display: flex;
     border-radius: 5px;
     margin: 0 20px;
